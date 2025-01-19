@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "node_name": "xxxxx",
+      "node_url": "https://www.github.com/xxxxxxxx",
+      "node_version": "55add50"
+    },
+    {
+      "node_name": "yyyyy",
+      "node_url": "https://www.github.com/yyyyyyyy",
+      "node_version": "66bb711"
+    }
+  ]
+}
